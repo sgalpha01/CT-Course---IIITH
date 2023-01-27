@@ -1,0 +1,23 @@
+a) mkdir 2021711003
+b) cd 2021711003
+c) pwd
+d) echo "Hello, This is our first lab"
+e)
+	1. vim names.txt
+	2. Press i
+	3. Added the following names:
+		Eren Yeager
+		Mikasa Ackerman
+		Levi Ackerman
+		Erwin Smith
+		Zeke Yeager
+	4. Press Escape and type :wq to save and exit
+f) cat names.txt
+g) 
+	1. touch aot_characters.txt
+	2. cat names.txt >> aot_characters.txt
+h) rm names.txt
+i) tail -n 2 aot_characters.txt
+j) wc -l < aot_characters.txt
+
+
